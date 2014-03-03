@@ -1,0 +1,14 @@
+From: Customer Service <customer_service@ics45c.com>
+To: $FIRST_NAME $LAST_NAME <$EMAIL>
+Subject: ICS45C appreciates your business!
+
+Dear $FIRST_NAME $LAST_NAME:
+
+We are writing today to thank you for your business, and to invite you
+to contact us if you have any comments and concerns about your recent
+order. If so, please email us at customer_services@ics45c.com and we
+would be delighted to discuss them with you
+
+Many Thanks,
+
+ICS45C Customer Service Team

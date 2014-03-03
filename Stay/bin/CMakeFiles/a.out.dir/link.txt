@@ -1,0 +1,1 @@
+/usr/bin/clang++       CMakeFiles/a.out.dir/src/Project1Core.cpp.o CMakeFiles/a.out.dir/src/main.cpp.o CMakeFiles/a.out.dir/src/Latitude.cpp.o CMakeFiles/a.out.dir/src/Longitude.cpp.o CMakeFiles/a.out.dir/src/Location.cpp.o CMakeFiles/a.out.dir/src/Position.cpp.o  -o a.out -rdynamic 

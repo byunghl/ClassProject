@@ -1,0 +1,1 @@
+/home/ics45c/projects/Stay/bin/CMakeFiles/a.out.dir

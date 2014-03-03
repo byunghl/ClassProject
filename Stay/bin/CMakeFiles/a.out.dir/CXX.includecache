@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics45c/projects/Stay/src/Latitude.h
+Position.h
+/home/ics45c/projects/Stay/src/Position.h
+
+/home/ics45c/projects/Stay/src/Location.h
+string
+-
+Longitude.h
+/home/ics45c/projects/Stay/src/Longitude.h
+Latitude.h
+/home/ics45c/projects/Stay/src/Latitude.h
+
+/home/ics45c/projects/Stay/src/Longitude.h
+Position.h
+/home/ics45c/projects/Stay/src/Position.h
+
+/home/ics45c/projects/Stay/src/Position.h
+string
+-
+
+/home/ics45c/projects/Stay/src/Project1Core.cpp
+Project1Core.h
+/home/ics45c/projects/Stay/src/Project1Core.h
+cmath
+-
+
+/home/ics45c/projects/Stay/src/Project1Core.h
+Location.h
+/home/ics45c/projects/Stay/src/Location.h
+iostream
+-
+vector
+-
+
